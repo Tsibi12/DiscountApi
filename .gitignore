@@ -1,0 +1,4 @@
+node_modules
+package-lock.json
+.env
+/config/gcp/discountapp-278200-97a238ecb02f.json
