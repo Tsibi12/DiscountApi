@@ -13,7 +13,7 @@ const singleFileUpload = multer({ storage: inMemoryStorage });
 
 const app = express();
 
-const URL = 'https://neuron-brigate.azurewebsites.net/api/v1';
+const URL = '';
 // Use Helmet to protect against well known vulnerabilities
 app.use(helmet());
 // compress download resources

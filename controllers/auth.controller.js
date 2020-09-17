@@ -10,10 +10,10 @@ const moment = require("moment");
 require("dotenv").config();
 
 // Backend URL
-const URL = 'https://neuron-brigate.azurewebsites.net';
+const URL = '';
 
 // Frontend URL
-const frontedURL = 'https://lendoritysa.azurewebsites.net';
+const frontedURL = '';
 
 //Creating instance of a model
 const User = db.User;
